@@ -3,7 +3,7 @@ import time
 from datetime import datetime
 
 # Set time interval to amount of seconds waited. (For ex. 300 seconds would give you top movers in the last five min.) 
-time_interval = 100
+time_interval = 300
 # Timer to measure runtime of each cycle
 start_time = time.time()
 original_Data = {}
