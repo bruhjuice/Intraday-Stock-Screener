@@ -1,6 +1,22 @@
 # Intraday-Stock-Screener
 WORK IN PROGRESS
 
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+Stock screener that scans the 100 most actively traded stocks of the day for the largest gainers within the users specified time interval. Can be used for detecting irregular price action or live breaking news if a company suddenly has a large gain. This program is meant to be used in addition to other tools and is **NOT financial advice.**
+
+
+### Built With
+
+* []()
+* []()
+* []()
+
+
+
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -45,23 +61,6 @@ WORK IN PROGRESS
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
-
-### Built With
-
-* []()
-* []()
-* []()
 
 
 
