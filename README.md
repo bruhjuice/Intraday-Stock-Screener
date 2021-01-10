@@ -5,7 +5,8 @@ WORK IN PROGRESS
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Stock screener that scans the 100 most actively traded stocks of the day for the largest gainers within the users specified time interval. Can be used for daytrading, detecting irregular price action, or finding live breaking news if a company suddenly has a large gain. Data is pulled from https://www.barchart.com/stocks/most-active/daily-volume-leaders and the program's finished data will be displayed in output.txt 
+Stock screener that scans the 100 most actively traded stocks of the day for the largest gainers within the users specified time interval. Can be used for daytrading, detecting irregular price action, or finding live breaking news if a company suddenly has a large gain. Data is pulled from https://www.barchart.com/stocks/most-active/daily-volume-leaders and the program's finished data will be displayed in output.txt
+<br/>
 This program is meant to be used in addition to other tools and is **NOT financial advice.**
 
 
@@ -18,22 +19,6 @@ This program is meant to be used in addition to other tools and is **NOT financi
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/bruhjuice/Intraday-Stock-Screener">
-  </a>
-
-  <h3 align="center">project_title</h3>
-
-  <p align="center">
-    Stock screener that scans that top 100 daily largest volume
-    <br />
-    <br />
-    <br />
-
-  </p>
-</p>
 
 
 
