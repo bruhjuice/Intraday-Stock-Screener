@@ -99,7 +99,9 @@ If after the time interval, new stocks that were not in the original 100 have ap
 
 
 ## Current Issues
-
+Code is currently not optimized and will be fixed later. 
+**Important** 
+Percent changes are currently based on flat percent. This means if a stock was up 90% for the day when the program began running, and after the time interval it's up 100%, it will read a 10% increase. However, in reality it increased 11.11%. This issue will be fixed in the future and does not drastically affect most stocks.
 
 <!-- LICENSE -->
 ## License
