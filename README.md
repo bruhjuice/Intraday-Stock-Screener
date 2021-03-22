@@ -79,8 +79,16 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+Program scrapes data for the top 100 most actively traded stocks of the day and updates with percent change after specified time interval
+<br> 
+
+<img width="1502" alt="Screen Shot 2021-01-12 at 12 19 15 PM" src="https://user-images.githubusercontent.com/69620469/111929284-26195a80-8a73-11eb-8b93-f886031c75de.png">
+
 <img width="683" alt="Screen Shot 2021-01-12 at 12 20 14 PM" src="https://user-images.githubusercontent.com/69620469/111929216-f23e3500-8a72-11eb-8571-292bdd168d08.png">
 
+
+
+<img width="192" alt="Screen Shot 2021-01-12 at 12 29 16 PM" src="https://user-images.githubusercontent.com/69620469/111929303-39c4c100-8a73-11eb-96be-1d6ec5cf70b6.png">
 
 
 
